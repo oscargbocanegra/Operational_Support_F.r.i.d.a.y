@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project Codex instructions, agents, skills, and MCP documentation are versioned.
